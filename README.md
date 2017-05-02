@@ -38,7 +38,9 @@ O projeto será adaptado para os seguintes temas (themes):
 >Gentelella Allela
 ![Gentelella Bootstrap Admin Template](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg "Gentelella Theme Browser Preview")
 
-### Referência
+---
+## Referência
+
 \[Sébastien Goasguen: 2016\], O’Reilly Media, Inc., [Docker Cookbook](http://www.allitebooks.com/docker-cookbook/): SOLUTIONS AND EXAMPLES FOR BUILDING DISTRIBUTED APPLICATIONS.<br />
 \[Alan Mark Berg: 2015\],  Packt Publishing, [Jenkins Continuous Integration Cookbook](https://ebooks-it.org/1784390089-ebook.htm), Second Edition<br />
 \[Alan Mark Berg: 2015 - 5\],  __ Chapter 5: Kubernetes, pag 149.<br />
