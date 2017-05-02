@@ -46,12 +46,13 @@ O projeto será adaptado para os seguintes temas (themes):
 
 2. [Gentelella Allela](https://github.com/puikinsh/gentelella); <br />
 >Gentelella Allela
-![Gentelella Bootstrap Admin Template](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg "Gentelella Theme Browser Preview")
+![Gentelella Admin Template](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/theme-gentelella.png)
 
 ---
 ## Referência
 
 \[Sanjeev Jaiswal, Ratan Kumar: 2015\], Packt Publishing Ltd. [Learning Django Web Development](https://www.packtpub.com/web-development/learning-django-web-development): From idea to prototype, a learner's guide for web development with the Django application framework.<br />
 \[Ninad Sathaye: 2016\], Packt Publishing Ltd. [Learning Python Application Development](https://www.packtpub.com/web-development/learning-django-web-development): Take Python beyond scripting to build robust, reusable, and efficient applications.<br />
+\[Kevin Harvey: 2015\], Packt Publishing Ltd. [Test-Driven Development with Django](https://www.packtpub.com/web-development/django-test-driven-development): Develop powerful, fully-featured Django applications by writing tests first.<br />
 \[Nilo Ney Coutinho Menezes: 2014\], Novatec Editora Ltda. [Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Programa%C3%A7%C3%A3o-com-Python/dp/8575224085): Algoritmos e lógica de programação para iniciantes.<br />
 \[Christian Posta: 2016\], O’Reilly Media, Inc., [Microservices for Java Developers](https://developers.redhat.com/promotions/microservices-for-java-developers/): A Hands-on Introduction to Frameworks and Containers <br />
