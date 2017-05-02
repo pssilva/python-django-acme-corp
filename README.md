@@ -12,13 +12,23 @@ Acme necessita de um novo serviço web que disponibilize funcionalidades de con
 
 ### Adquirir Proficiências em Habilidades
 
-1. Experiência em sistemas de banco de dados NoSQL (Cassandra, [MongoDB](https://www.mongodb.com/), etc.);
-	<p><img src="https://github.com/pssilva/java-framework-spring/blob/master/doc-repo/mongoDB.png" alt="Experiência em sistemas de banco de dados NoSQL" height="50" width="195"/></p>
+1. Experiência em implementar usando a linguagem [Python 2.x](https://www.python.org/doc/);
+
+![Python](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/python-logo-master-v3-TM.png)
+
+2. Experiência em implementar usando um [Framework Djando](https://www.djangoproject.com/);
+
+![Framework Djando](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/django-300x300.png)
+
+2. Experiência em sistemas de banco de dados NoSQL (Cassandra, [MongoDB](https://www.mongodb.com/), etc.);
+    <p><img src="https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/mongoDB.png" alt="Experiência em sistemas de banco de dados NoSQL" height="50" width="195"/></p>
 2. Experiência em sistemas de containerização (e.g. [Docker](https://hub.docker.com/r/pss1suporte/paas-docker/));
-	<p><img src="https://github.com/pssilva/java-framework-spring/blob/master/doc-repo/docker.png" alt="Experiência em sistemas de containerização Docker" height="50" width="195"></p>
+    <p><img src="https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/docker.png" alt="Experiência em sistemas de containerização Docker" height="50" width="195"></p>
 3. Experiência em sistemas Linux e shell scripting;
-	<p><img src="https://github.com/pssilva/java-framework-spring/blob/master/doc-repo/shell-linux.jpeg" alt="Experiência em sistemas Linux e shell scripting" height="91" width="150"></p>
+    <p><img src="https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/shell-linux.png" alt="Experiência em sistemas Linux e shell scripting" height="91" width="150"></p>
 4. Experiência em projetos utilizando micro serviços (Microservices) e computação distribuída;
+
+![Microservices](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/microservices-domain.png)
 
 ### Como usar:
 
@@ -41,10 +51,7 @@ O projeto será adaptado para os seguintes temas (themes):
 ---
 ## Referência
 
-\[Sébastien Goasguen: 2016\], O’Reilly Media, Inc., [Docker Cookbook](http://www.allitebooks.com/docker-cookbook/): SOLUTIONS AND EXAMPLES FOR BUILDING DISTRIBUTED APPLICATIONS.<br />
-\[Alan Mark Berg: 2015\],  Packt Publishing, [Jenkins Continuous Integration Cookbook](https://ebooks-it.org/1784390089-ebook.htm), Second Edition<br />
-\[Alan Mark Berg: 2015 - 5\],  __ Chapter 5: Kubernetes, pag 149.<br />
+\[Sanjeev Jaiswal, Ratan Kumar: 2015\], Packt Publishing Ltd. [Learning Django Web Development](https://www.packtpub.com/web-development/learning-django-web-development): From idea to prototype, a learner's guide for web development with the Django application framework.<br />
+\[Ninad Sathaye: 2016\], Packt Publishing Ltd. [Learning Python Application Development](https://www.packtpub.com/web-development/learning-django-web-development): Take Python beyond scripting to build robust, reusable, and efficient applications.<br />
+\[Nilo Ney Coutinho Menezes: 2014\], Novatec Editora Ltda. [Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Programa%C3%A7%C3%A3o-com-Python/dp/8575224085): Algoritmos e lógica de programação para iniciantes.<br />
 \[Christian Posta: 2016\], O’Reilly Media, Inc., [Microservices for Java Developers](https://developers.redhat.com/promotions/microservices-for-java-developers/): A Hands-on Introduction to Frameworks and Containers <br />
-\[Markus Eisele: 2016\], O’Reilly Media, Inc., [Modern Java EE Design Patterns](https://developers.redhat.com/promotions/distributed-javaee-architecture/): Building Scalable Architecture for Sustainable Enterprise Development. <br />  
-
-
