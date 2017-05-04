@@ -32,10 +32,12 @@ Acme necessita de um novo serviço web que disponibilize funcionalidades de con
 
 ### Como usar:
 
-1. Clonar o projeto: `git https://github.com/pssilva/python-django-acme-corp.git`;
-2. Acessar a pasta: `cd python-django-acme-corp`;
-3. acessar o link: `localhost:8080/python-django-acme-corp/`;
-
+1. Clonar: `git https://github.com/pssilva/python-django-acme-corp.git`;
+2. Acessar: `cd python-django-acme-corp`;
+3. Instalar Theme: `cd static/theme/AdminLTE2.3.7` 
+>>E executar a instalação: [AdminLTE]()
+4. Start Server: `python manage.py runserver`;
+5. acessar o link: `localhost:8000/python-django-acme-corp/`;
 
 ### Temas 
 O projeto será adaptado para os seguintes temas (themes):
@@ -53,6 +55,7 @@ O projeto será adaptado para os seguintes temas (themes):
 
 \[Sanjeev Jaiswal, Ratan Kumar: 2015\], Packt Publishing Ltd. [Learning Django Web Development](https://www.packtpub.com/web-development/learning-django-web-development): From idea to prototype, a learner's guide for web development with the Django application framework.<br />
 \[Ninad Sathaye: 2016\], Packt Publishing Ltd. [Learning Python Application Development](https://www.packtpub.com/web-development/learning-django-web-development): Take Python beyond scripting to build robust, reusable, and efficient applications.<br />
+\[Scott Newman: 2008\], Packt Publishing Ltd. [Django 1.0 Template Development](https://www.packtpub.com/web-development/django-10-template-development): A practical guide to Django template development with custom tags, filters, multiple templates, caching, and more.<br />
 \[Kevin Harvey: 2015\], Packt Publishing Ltd. [Test-Driven Development with Django](https://www.packtpub.com/web-development/django-test-driven-development): Develop powerful, fully-featured Django applications by writing tests first.<br />
 \[Fabrizio Romano: 2015\], Packt Publishing Ltd. [Learning Python](https://www.packtpub.com/application-development/learning-python): Learn to code like a professional with Python – an open source, versatile, and powerful programming language.<br />
 \[Nilo Ney Coutinho Menezes: 2014\], Novatec Editora Ltda. [Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Programa%C3%A7%C3%A3o-com-Python/dp/8575224085): Algoritmos e lógica de programação para iniciantes.<br />

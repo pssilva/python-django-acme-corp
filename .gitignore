@@ -91,3 +91,11 @@ ENV/
 # ds_store
 .DS_Store
 
+
+# theme
+static/theme/AdminLTE2.3.7/documentation/*
+static/theme/AdminLTE2.3.7/build/*
+static/theme/AdminLTE2.3.7/bower_components/*
+static/theme/AdminLTE2.3.7/node_modules/*
+static/theme/AdminLTE2.3.7/vendor/*
+
