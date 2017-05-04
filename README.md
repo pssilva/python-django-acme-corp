@@ -35,7 +35,7 @@ Acme necessita de um novo serviço web que disponibilize funcionalidades de con
 1. Clonar: `git https://github.com/pssilva/python-django-acme-corp.git`;
 2. Acessar: `cd python-django-acme-corp`;
 3. Instalar Theme: `cd static/theme/AdminLTE2.3.7` 
->>E executar a instalação: [AdminLTE]()
+>>E executar a instalação: [AdminLTE](https://github.com/pssilva/python-django-acme-corp/blob/master/static/theme/AdminLTE2.3.7/README.md)
 4. Start Server: `python manage.py runserver`;
 5. acessar o link: `localhost:8000/python-django-acme-corp/`;
 
@@ -43,11 +43,11 @@ Acme necessita de um novo serviço web que disponibilize funcionalidades de con
 O projeto será adaptado para os seguintes temas (themes):
 
 1. [AdminLTE](https://github.com/almasaeed2010/AdminLTE); <br />
->AdminLTE
+>AdminLTE: `http://localhost:8000/static/theme/AdminLTE2.3.7/index.html`
 !["AdminLTE Presentation"](https://almsaeedstudio.com/AdminLTE2.png "AdminLTE Presentation")
 
 2. [Gentelella Allela](https://github.com/puikinsh/gentelella); <br />
->Gentelella Allela
+>Gentelella Allela: [Trabalho em progresso]
 ![Gentelella Admin Template](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/theme-gentelella.png)
 
 ---
