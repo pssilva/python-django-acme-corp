@@ -1,74 +1,123 @@
-# Python Django Acme Corp
-Projeto conceito para implementar um projeto em python usando Django que é um web framework. 
-Tendo o seguinte contexto: A pouco tempo a empresa Acme Corporation iniciou suas vendas online e 
-carece de uma plataforma robusta para as vendas. Para que as vendas online tenham sucesso a 
-Acme necessita de um novo serviço web que disponibilize funcionalidades de controle do estoque.
+Introduction
+============
 
-## Objetivos Principais:
-- Criar uma sistema usando web back-end [Python 2.x](https://www.python.org/doc/);
-- Criar um sistema usando tecnologias [Framework Djando](https://www.djangoproject.com/);
-- Projetar Sistemas usando Arquiterura Microservices;
-- Implantação Contínua (Continuous Deployment);
+![Bower version](https://img.shields.io/bower/v/adminlte.svg)
+[![npm version](https://img.shields.io/npm/v/admin-lte.svg)](https://www.npmjs.com/package/admin-lte)
+[![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
 
-### Adquirir Proficiências em Habilidades
+**AdminLTE** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
 
-1. Experiência em implementar usando a linguagem [Python 2.x](https://www.python.org/doc/);
+**Download & Preview on [Almsaeed Studio](https://almsaeedstudio.com)**
 
-![Python](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/python-logo-master-v3-TM.png)
-
-2. Experiência em implementar usando um [Framework Djando](https://www.djangoproject.com/);
-
-![Framework Djando](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/django-300x300.png)
-
-2. Experiência em sistemas de banco de dados NoSQL (Cassandra, [MongoDB](https://www.mongodb.com/), etc.);
-    <p><img src="https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/mongoDB.png" alt="Experiência em sistemas de banco de dados NoSQL" height="50" width="195"/></p>
-2. Experiência em sistemas de containerização (e.g. [Docker](https://hub.docker.com/r/pss1suporte/paas-docker/));
-    <p><img src="https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/docker.png" alt="Experiência em sistemas de containerização Docker" height="50" width="195"></p>
-3. Experiência em sistemas Linux e shell scripting;
-    <p><img src="https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/shell-linux.png" alt="Experiência em sistemas Linux e shell scripting" height="91" width="150"></p>
-4. Experiência em projetos utilizando micro serviços (Microservices) e computação distribuída;
-
-![Microservices](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/microservices-domain.png)
-
-### Como usar:
-
-1. Clonar: `git https://github.com/pssilva/python-django-acme-corp.git`;
-2. Acessar: `cd python-django-acme-corp`;
-3. Instalar Theme: `cd static/theme/AdminLTE2.3.7` 
-   - E executar a instalação: [AdminLTE](https://github.com/pssilva/python-django-acme-corp/blob/master/static/theme/AdminLTE2.3.7/README.md)
-4. Start Server: `python manage.py runserver`;
-5. acessar o link: `localhost:8000/python-django-acme-corp/`;
-
-### Temas 
-O projeto será adaptado para os seguintes temas (themes):
-
-1. [AdminLTE](https://github.com/almasaeed2010/AdminLTE); <br />
->AdminLTE: `http://localhost:8000/static/theme/AdminLTE2.3.7/index.html`
-!["AdminLTE Presentation"](https://almsaeedstudio.com/AdminLTE2.png "AdminLTE Presentation")
-
-2. [Gentelella Allela](https://github.com/puikinsh/gentelella); <br />
->Gentelella Allela: [Trabalho em progresso]
-![Gentelella Admin Template](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/theme-gentelella.png)
-
-### Todo List
-
- 1. Gerar Relatórios;
- 2. Enviar E-mails;
- 3. Autenticação OAuth2;
- 4. Implementar Serviço com Arquitetural REST;
- 5. Automatizar geração de CRUD´s;
+Looking for Premium Templates?
+------------------------------
+**Almsaeed studio just opened a new premium templates page. Hand picked to insure the best quality and the most affordable prices. Visit https://almsaeedstudio.com/premium for more information.**
 
 
----
-## Referência
+!["AdminLTE Presentation"] (https://almsaeedstudio.com/AdminLTE2.png "AdminLTE Presentation")
 
-\[Kenneth Reitz: 2017\]. Disponível em [Python Guide Documentation](https://media.readthedocs.org/pdf/python-guide/latest/python-guide.pdf): Release 0.0.1. Acesso em: Mai 5, 2017<br />
-\[Django Documentation: 2017\]. Disponível em [Django Documentation](https://media.readthedocs.org/pdf/django/1.11.x/django.pdf): Django Software Foundation, Release 1.11.1.dev20170503163118. Acesso em: Mai 5, 2017<br />
-\[Sanjeev Jaiswal, Ratan Kumar: 2015\]. Disponível em [Django Documentation](https://www.packtpub.com/web-development/learning-django-web-development): Django Software Foundation - Release 1.11.1.dev20170503163118. Acesso em: Mai 5, 2017<br />
-\[Sanjeev Jaiswal, Ratan Kumar: 2015\], Packt Publishing Ltd. [Learning Django Web Development](https://www.packtpub.com/web-development/learning-django-web-development): From idea to prototype, a learner's guide for web development with the Django application framework.<br />
-\[Ninad Sathaye: 2016\], Packt Publishing Ltd. [Learning Python Application Development](https://www.packtpub.com/web-development/learning-django-web-development): Take Python beyond scripting to build robust, reusable, and efficient applications.<br />
-\[Scott Newman: 2008\], Packt Publishing Ltd. [Django 1.0 Template Development](https://www.packtpub.com/web-development/django-10-template-development): A practical guide to Django template development with custom tags, filters, multiple templates, caching, and more.<br />
-\[Kevin Harvey: 2015\], Packt Publishing Ltd. [Test-Driven Development with Django](https://www.packtpub.com/web-development/django-test-driven-development): Develop powerful, fully-featured Django applications by writing tests first.<br />
-\[Fabrizio Romano: 2015\], Packt Publishing Ltd. [Learning Python](https://www.packtpub.com/application-development/learning-python): Learn to code like a professional with Python – an open source, versatile, and powerful programming language.<br />
-\[Nilo Ney Coutinho Menezes: 2014\], Novatec Editora Ltda. [Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Programa%C3%A7%C3%A3o-com-Python/dp/8575224085): Algoritmos e lógica de programação para iniciantes.<br />
-\[Christian Posta: 2016\], O’Reilly Media, Inc., [Microservices for Java Developers](https://developers.redhat.com/promotions/microservices-for-java-developers/): A Hands-on Introduction to Frameworks and Containers <br />
+**AdminLTE** has been carefully coded with clear comments in all of its JS, LESS and HTML files. LESS has been used to increase code customizability.
+
+Installation
+------------
+There are multiple ways to install AdminLTE.
+
+####Download:
+
+Download from Github or [visit Almsaeed Studio](https://almsaeedstudio.com) and download the latest release.
+
+####Using The Command Line:
+
+**Github**
+
+- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
+- Clone to your machine
+```
+git clone https://github.com/YOUR_USERNAME/AdminLTE.git
+```
+
+**Bower**
+
+```
+bower install admin-lte
+```
+
+**npm**
+
+```
+npm install --save admin-lte
+```
+
+**Composer**
+
+```
+composer require "almasaeed2010/adminlte=~2.0"
+```
+
+Documentation
+-------------
+Visit the [online documentation](https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html) for the most
+updated guide. Information will be added on a weekly basis.
+
+Browser Support
+---------------
+- IE 9+
+- Firefox (latest)
+- Chrome (latest)
+- Safari (latest)
+- Opera (latest)
+
+Contribution
+------------
+Contribution are always **welcome and recommended**! Here is how:
+
+- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
+- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
+- Make your changes
+- Create a pull request
+
+#### Contribution Requirements:
+
+- When you contribute, you agree to give a non-exclusive license to Almsaeed Studio to use that contribution in any context as we (Almsaeed Studio) see appropriate.
+- If you use content provided by another party, it must be appropriately licensed using an [open source](http://opensource.org/licenses) license.
+- Contributions are only accepted through Github pull requests.
+- Finally, contributed code must work in all supported browsers (see above for browser support).
+
+License
+-------
+AdminLTE is an open source project by [Almsaeed Studio](https://almsaeedstudio.com) that is licensed under [MIT](http://opensource.org/licenses/MIT). Almsaeed Studio
+reserves the right to change the license of future releases.
+
+Todo List
+---------
+- ~~Light sidebar colors~~ (Done v2.1.0)
+- ~~Right sidebar~~ (Done v2.1.0)
+- ~~Minified main-sidebar~~ (Done v2.1.0)
+- Right to left support
+- ~~Custom pace style~~ (Done v2.3.1)
+
+Legacy Releases
+----------------
+AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html#upgrade), but if you intend to keep using AdminLTE 1.x, you can download the latest release from the [releases](https://github.com/almasaeed2010/AdminLTE/releases) section above.
+
+Change log
+----------
+**For the most recent change log, visit the [releases page](https://github.com/almasaeed2010/AdminLTE/releases) or the [changelog file](https://github.com/almasaeed2010/AdminLTE/blob/master/changelog.md).** We will add a detailed release notes to each new release. 
+
+Image Credits
+-------------
+[Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
+
+[Graphicsfuel](http://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
+
+[Pickaface](http://pickaface.net/)
+
+[Unsplash](https://unsplash.com/)
+
+[Uifaces](http://uifaces.com/)
+
+Donations
+---------
+Donations are **greatly appreciated!**
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
