@@ -56,7 +56,7 @@ O projeto será adaptado para os seguintes temas (themes):
  2. Enviar E-mails;
  3. Autenticação OAuth2;
  4. Implementar Serviço com Arquitetural REST;
- 5. Automatizar geração de CRUD´s;
+ 5. Automatizar geração de CRUDs;
 
 
 ---
