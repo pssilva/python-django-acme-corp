@@ -64,7 +64,6 @@ O projeto será adaptado para os seguintes temas (themes):
 
 \[Kenneth Reitz: 2017\]. Disponível em [Python Guide Documentation](https://media.readthedocs.org/pdf/python-guide/latest/python-guide.pdf): Release 0.0.1. Acesso em: Mai 5, 2017<br />
 \[Django Documentation: 2017\]. Disponível em [Django Documentation](https://media.readthedocs.org/pdf/django/1.11.x/django.pdf): Django Software Foundation, Release 1.11.1.dev20170503163118. Acesso em: Mai 5, 2017<br />
-\[Sanjeev Jaiswal, Ratan Kumar: 2015\]. Disponível em [Django Documentation](https://www.packtpub.com/web-development/learning-django-web-development): Django Software Foundation - Release 1.11.1.dev20170503163118. Acesso em: Mai 5, 2017<br />
 \[Sanjeev Jaiswal, Ratan Kumar: 2015\], Packt Publishing Ltd. [Learning Django Web Development](https://www.packtpub.com/web-development/learning-django-web-development): From idea to prototype, a learner's guide for web development with the Django application framework.<br />
 \[Ninad Sathaye: 2016\], Packt Publishing Ltd. [Learning Python Application Development](https://www.packtpub.com/web-development/learning-django-web-development): Take Python beyond scripting to build robust, reusable, and efficient applications.<br />
 \[Scott Newman: 2008\], Packt Publishing Ltd. [Django 1.0 Template Development](https://www.packtpub.com/web-development/django-10-template-development): A practical guide to Django template development with custom tags, filters, multiple templates, caching, and more.<br />
