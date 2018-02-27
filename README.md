@@ -6,7 +6,7 @@ Acme necessita de um novo serviço web que disponibilize funcionalidades de con
 
 ## Objetivos Principais:
 - Criar uma sistema usando web back-end [Python 2.x](https://www.python.org/doc/);
-- Criar um sistema usando tecnologias [Framework Djando](https://www.djangoproject.com/);
+- Criar um sistema usando tecnologias [Framework Django](https://www.djangoproject.com/);
 - Projetar Sistemas usando Arquiterura Microservices;
 - Implantação Contínua (Continuous Deployment);
 
@@ -16,9 +16,9 @@ Acme necessita de um novo serviço web que disponibilize funcionalidades de con
 
 ![Python](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/python-logo-master-v3-TM.png)
 
-2. Experiência em implementar usando um [Framework Djando](https://www.djangoproject.com/);
+2. Experiência em implementar usando um [Framework Django](https://www.djangoproject.com/);
 
-![Framework Djando](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/django-300x300.png)
+![Framework Django](https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/django-300x300.png)
 
 2. Experiência em sistemas de banco de dados NoSQL (Cassandra, [MongoDB](https://www.mongodb.com/), etc.);
     <p><img src="https://github.com/pssilva/python-django-acme-corp/blob/master/doc-repo/mongoDB.png" alt="Experiência em sistemas de banco de dados NoSQL" height="50" width="195"/></p>
